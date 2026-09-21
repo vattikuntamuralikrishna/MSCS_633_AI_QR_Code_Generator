@@ -1,0 +1,45 @@
+Assignment Name:
+Construct AI QR Code Generator with Python
+
+Course:
+Advanced Artificial Intelligence
+
+Programming Language:
+Python
+
+Development Environment:
+Visual Studio Code
+
+Python Version:
+Python 3.10
+
+Python Libraries:
+qrcode
+Pillow
+
+Source Code:
+Hands-On Assignment2.py
+
+Input:
+A URL entered by the user.
+
+Output:
+A QR code image generated from the URL and saved as a PNG file.
+
+Assignment Description:
+This application is designed to generate a QR code from a URL provided by the user. The application uses the Python qrcode library to create the QR code and saves the generated QR code as a PNG image.
+
+Application Process:
+1. The user enters a URL.
+2. The application adds the URL to a QR code.
+3. The QR code is generated as an image.
+4. The generated QR code is saved as a PNG file.
+5. A confirmation message is displayed after the QR code is saved.
+
+Files Included:
+- Hands-On Assignment2.py
+- manifest.txt
+- qr_code.png
+
+Expected Result:
+A scannable QR code containing the URL entered by the user.
